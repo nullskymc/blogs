@@ -49,10 +49,10 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://www.weibo.com/<thispart>
+  weibo: https://www.weibo.com/nullskymc
   behance: https://www.behance.net/<>
   dribbble: https://dribbble.com/<>
-  email: youremailaddress@mail.com
+  email: nullskymc@hotmail
   facebook: https://www.facebook.com/<>
   flickr: https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
