@@ -1,3 +1,13 @@
+---
+layout: post
+title: Anaconda的测试笔记
+date: 2022-12-21
+Author: Nullskymc 
+tags: [anaconda, markdown]
+comments: true
+toc: true
+---
+
 # Anaconda的安装与使用
 ## 1.安装Anaconda（ubuntu22.04)
 
